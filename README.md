@@ -1,0 +1,2 @@
+# SynapseOS-coin
+ 
