@@ -1,0 +1,5 @@
+
+*.pyc
+logs/www.log
+wallet/userinfo/public.pem
+wallet/userinfo/private.pem
